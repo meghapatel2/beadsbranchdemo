@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Megha
+ * @author Megha,2019
  */
 public class BeadTester {
     public static void main(String[] args) {
