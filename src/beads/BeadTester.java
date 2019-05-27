@@ -8,7 +8,7 @@ package beads;
 import java.util.Scanner;
 
 /**
- *
+ *  This is the branch code for beadset1 branch
  * @author Megha,2019
  */
 public class BeadTester {
