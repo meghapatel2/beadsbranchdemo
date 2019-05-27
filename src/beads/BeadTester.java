@@ -14,9 +14,9 @@ import java.util.Scanner;
 public class BeadTester {
     public static void main(String[] args) {
           Beads b1=new Beads("yellow");
-          Scanner in=new Scanner(System.in);
-        //  b1.setColor("white");
-         // b1.setLetter('a');
+         // Scanner in=new Scanner(System.in);
+          b1.setColor("white");
+         b1.setLetter('a');
           System.out.println(b1.getColor());
           //System.out.println(b1.getColor()+" "+b1.getLetter());;
     }
